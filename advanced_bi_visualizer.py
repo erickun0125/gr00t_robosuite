@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import time
 
-### 
+######
 class SimpleBiManipulator:
     def __init__(self):
         self.fig = plt.figure(figsize=(16, 12))
